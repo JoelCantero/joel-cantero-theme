@@ -1,0 +1,11 @@
+{
+    "paths": {
+        "linux": [],
+        "osx": [
+            "~/.rbenv/shims"
+        ],
+        "windows": [
+            "C:\\Users\\Joel\\AppData\\Roaming\\npm"
+        ]
+    }
+}
